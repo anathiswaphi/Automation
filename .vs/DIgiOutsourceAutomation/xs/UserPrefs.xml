@@ -1,0 +1,42 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="TestAutomation/Features/Betway/BetwayRegistation.feature" Line="1" Column="1" />
+      <File FileName="TestAutomation/Reporting/Reporting.cs" Line="42" Column="39" />
+      <File FileName="TestAutomation/Steps/BetwaySteps.cs" Line="141" Column="30" />
+      <File FileName="TestAutomation/Steps/GoogleSteps.cs" Line="68" Column="21" />
+      <File FileName="TestAutomation/UI/BetwayRegistration/BetwayRegistration.cs" Line="1" Column="1" />
+      <File FileName="TestAutomation/UI/ScreenDriver.cs" Line="121" Column="62" />
+      <File FileName="TestAutomation/Features/Google/Headlines.feature" Line="1" Column="1" />
+      <File FileName="TestAutomation/Helpers/TestParameters.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DIgiOutsourceAutomation" expanded="True">
+            <Node name="DIgiOutsourceAutomation" expanded="True">
+              <Node name="Features" expanded="True">
+                <Node name="Betway" expanded="True" />
+                <Node name="Google" expanded="True" />
+              </Node>
+              <Node name="Helpers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Reporting" expanded="True" />
+              <Node name="Steps" expanded="True" />
+              <Node name="UI" expanded="True">
+                <Node name="BetwayRegistration" expanded="True" />
+              </Node>
+              <Node name="Microsoft.CodeAnalysis.Analyzers.dll" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
