@@ -1,1 +1,0 @@
-Copy the folder BrowserNodes to your c drive,  Note this might not work if the version of the browser is not the same. check the version of the browser and download the corect version of chrome driver
