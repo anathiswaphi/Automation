@@ -1,4 +1,3 @@
-# DIgiOutsourceAutomation
 #pre-requisites
   - visual studio code
   - windows os
