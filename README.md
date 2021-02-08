@@ -3,6 +3,8 @@
   - visual studio code
   - windows os
   - make sure chromedriver.exe version matches chrome browser which is located on BrowserNodes
+  
+  I added all dependencies on this repo,usually there is no need because they can be auto generated when you build the project but I felt it safe to have them here for this occasion.
 
 This test was developed using visual studio 2019 on Windows
 I then used visual studio code on a mac to commit on github, reason for that is, I have git setup on the mac, and visual studio was easy to setup on windows as it was my first time using it.
